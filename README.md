@@ -1,3 +1,65 @@
-install open cv and media pipe in vs code using pip
-install python 3.9 version just python
-make sure to do everything in a environment venv
+install these dependecies boii
+(venv) PS F:\Sairam Projects\Sign language translator_media pipe> pip list
+Package               Version
+--------------------- -----------
+absl-py               2.3.1
+aiohappyeyeballs      2.6.1
+aiohttp               3.13.3
+aiosignal             1.4.0
+annotated-types       0.7.0
+anyio                 4.12.1
+async-timeout         5.0.1
+attrs                 25.4.0
+certifi               2026.1.4
+cffi                  2.0.0
+charset-normalizer    3.4.4
+colorama              0.4.6
+comtypes              1.4.15
+contourpy             1.3.0
+cycler                0.12.1
+distro                1.9.0
+exceptiongroup        1.3.1
+flatbuffers           25.12.19
+fonttools             4.60.2
+frozenlist            1.8.0
+h11                   0.16.0
+httpcore              1.0.9
+httpx                 0.28.1
+idna                  3.11
+importlib_resources   6.5.2
+jiter                 0.13.0
+kiwisolver            1.4.7
+matplotlib            3.9.4
+mediapipe             0.10.9
+multidict             6.7.1
+numpy                 2.0.2
+openai                2.18.0
+opencv-contrib-python 4.12.0.88
+opencv-python         4.12.0.88
+packaging             25.0
+pillow                11.3.0
+pip                   22.0.4
+propcache             0.4.1
+protobuf              3.20.3
+pycparser             2.23
+pydantic              2.12.5
+pydantic_core         2.41.5
+pyparsing             3.3.1
+pypiwin32             223
+python-dateutil       2.9.0.post0
+pyttsx3               2.99
+pywin32               311
+requests              2.32.5
+setuptools            58.1.0
+six                   1.17.0
+sniffio               1.3.1
+sounddevice           0.5.3
+tqdm                  4.67.3
+typing_extensions     4.15.0
+typing-inspection     0.4.2
+urllib3               2.6.3
+yarl                  1.22.0
+zipp                  3.23.0
+WARNING: You are using pip version 22.0.4; however, version 26.0.1 is available.
+You should consider upgrading via the 'F:\Sairam Projects\Sign language translator_media pipe\venv\Scripts\python.exe -m pip install --upgrade pip' command.
+(venv) PS F:\Sairam Projects\Sign language translator_media pipe> 
